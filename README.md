@@ -2,7 +2,7 @@
 
 ## AN INTERNET PRIVACY SOLUTION ON BLOCKCHAIN
 
-![image]https://github.com/xun-project/ultranotei-imagery/blob/master/splash_1.png
+![alt text]https://github.com/xun-project/ultranotei-imagery/blob/master/splash_1.png?raw=true)
 
 Maintained by UltraNote Infinity Developers.
 
