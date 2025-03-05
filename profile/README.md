@@ -1,6 +1,6 @@
 ## UltraNote Infinity ( XUNI )
 
-## AN INTERNET PRIVACY SOLUTION ON BLOCKCHAIN
+## A PRIVACY SOLUTION ON BLOCKCHAIN
 
 ![Screenshot](https://github.com/xun-project/ultranotei-imagery/blob/master/splash_1.png)
 
